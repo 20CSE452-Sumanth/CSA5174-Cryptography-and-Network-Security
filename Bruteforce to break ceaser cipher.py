@@ -1,5 +1,5 @@
 message=input("Enter the message")
-letters=input("Enter the letters")
+Letters=input("Enter the letters")
 for key in range(len(Letters)):
    translated = ''
    for ch in message:
